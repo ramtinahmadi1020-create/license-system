@@ -2,7 +2,7 @@
 
 Secure license administration and device-bound activation API for Cloudflare Workers, D1, and Workers Assets.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ramtinahmadi1020/license-system)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ramtinahmadi1020-create/license-system)
 
 ## Requirements
 
